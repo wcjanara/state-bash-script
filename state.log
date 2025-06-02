@@ -1,0 +1,9 @@
+===== Sun Jun  1 09:34:33 PM MDT 2025 =====
+total 24
+-rw-r--r-- 1 JR10309 cloud-edu   19 Jun  1 20:47 README.md
+drwxr-xr-x 3 JR10309 cloud-edu 4096 Jun  1 21:07 state-bash-script
+-rwxr-xr-x 1 JR10309 cloud-edu  254 Jun  1 21:34 stateGit.sh
+-rwxr-xr-x 1 JR10309 cloud-edu  257 Jun  1 21:33 StateGit.sh
+-rw-r--r-- 1 JR10309 cloud-edu   44 Jun  1 21:34 state.log
+-rwxr-xr-x 1 JR10309 cloud-edu  240 Jun  1 20:47 state.sh
+
